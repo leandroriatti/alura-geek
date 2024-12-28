@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "78fe",
+      "name": "Pista de autos ",
+      "price": "20",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_816642-MLU78771465000_092024-F.webp"
+    },
+    {
+      "id": "79c1",
+      "name": "Burbujero",
+      "price": "30",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_814662-MLA81204822878_122024-F.webp"
+    },
+    {
+      "id": "b4cb",
+      "name": "gimnasio de bebes ",
+      "price": "20",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_681369-MLA81187309834_122024-F.webp"
+    }
+  ]
+}
